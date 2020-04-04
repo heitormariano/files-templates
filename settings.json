@@ -2,10 +2,10 @@
     "workbench.startupEditor": "newUntitledFile",
     "window.zoomLevel": 1,
     "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": 	"automaticallyOverrodeDefaultValue",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "workbench.iconTheme": "material-icon-theme",
     "python.jediEnabled": false,
-    "workbench.colorTheme": "Palenight Theme",
+    "workbench.colorTheme": "Default Light+",
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -18,5 +18,12 @@
     "[css]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "prettier.singleQuote": true
+    "prettier.singleQuote": true,
+    "sync.gist": "457720ebd3c9337e720eea4a71883e89",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "prettier.printWidth": 100,
+    "prettier.tabWidth": 4
 }
